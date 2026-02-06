@@ -1,6 +1,6 @@
 # App Support (技術支援)
 
-如果您在使用「馬上顯靈至尊版」時遇到任何問題，或有任何建議，請透過以下方式與我們聯絡：
+如果您在使用「馬上顯靈」時遇到任何問題，或有任何建議，請透過以下方式與我們聯絡：
 (If you have any questions or suggestions, please contact us via:)
 
 - **Email**: liuihc#qq.com (請將#替換為@)
